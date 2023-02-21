@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>First Laravel Application</h1>
-    <h2>First Laravel Application</h2>
+    <h2>Welcome to my First Laravel Application</h2>
 </body>
 </html>
